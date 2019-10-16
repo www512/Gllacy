@@ -1,5 +1,7 @@
 # Личный проект «Глейси»
 
+**Сайт:** https://www512.github.io/gllacy/
+
 
 Проект состоит из двух страниц: главной и страницы каталога.  
 Кроссбраузерность: Chrome, Firefox, Safari, Edge, Internet Explorer 11.
