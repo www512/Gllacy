@@ -16,8 +16,8 @@
 - При наведении на корзину в шапке страницы появляется форма с товарами.
 - Фильтр: при нажатии на кнопку «Применить» осуществляется отправка формы.
 
-
 [Техническое задание](https://up.htmlacademy.ru/htmlcss/24/project/gllacy)
+
 ---
 <a href="https://htmlacademy.ru"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/htmlcss/logo-for-github.svg"></a>
 
